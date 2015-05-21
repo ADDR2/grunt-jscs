@@ -17,7 +17,7 @@
     },
     "dependencies": {
         "hooker": "~0.2.3",
-        "jscs": "https://github.com/ADDR2/node-jscs.git",
+        "jscs": "https://github.com/ADDR2/node-jscs/archive/92deb3b21a391d947da9deecbd34239605a1345a.zip",
         "lodash": "~2.4.1",
         "vow": "~0.4.1"
     },
