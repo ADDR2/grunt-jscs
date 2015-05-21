@@ -4,13 +4,13 @@
     "version": "1.8.0",
     "author": "Gustavo Henke <gustavo@injoin.com.br>",
     "license": "MIT",
-    "homepage": "https://github.com/jscs-dev/grunt-jscs",
+    "homepage": "https://github.com/ADDR2/grunt-jscs",
     "contributors": [
         "Oleg Gaidarenko <markelog@gmail.com>"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/jscs-dev/grunt-jscs.git"
+        "url": "https://github.com/ADDR2/grunt-jscs.git"
     },
     "bugs": {
         "url": "https://github.com/jscs-dev/grunt-jscs/issues"
