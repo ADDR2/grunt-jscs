@@ -10,14 +10,14 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/jscs-dev/grunt-jscs.git"
+        "url": "https://github.com/ADDR2/grunt-jscs.git"
     },
     "bugs": {
         "url": "https://github.com/jscs-dev/grunt-jscs/issues"
     },
     "dependencies": {
         "hooker": "~0.2.3",
-        "jscs": "~1.13.0",
+        "jscs": "https://github.com/ADDR2/node-jscs.git",
         "lodash": "~2.4.1",
         "vow": "~0.4.1"
     },
