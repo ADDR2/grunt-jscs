@@ -17,7 +17,7 @@
     },
     "dependencies": {
         "hooker": "~0.2.3",
-        "jscs": "https://github.com/ADDR2/node-jscs/tarball/92deb3b21a391d947da9deecbd34239605a1345a",
+        "jscs": "https://github.com/ADDR2/node-jscs/tarball/974a776113c5ff2a5468006c68c6e4b8de80e334",
         "lodash": "~2.4.1",
         "vow": "~0.4.1"
     },
